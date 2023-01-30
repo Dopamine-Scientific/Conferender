@@ -1,7 +1,10 @@
-[AppIconForLaunch.pdf](https://github.com/Dopamine-Scientific/Conferender/files/10540256/AppIconForLaunch.pdf)
+![AppIcon](https://user-images.githubusercontent.com/119645807/215604873-62d47add-864d-4094-b773-291977f8e80a.png)
 
-| [Move.pdf](https://github.com/Dopamine-Scientific/Conferender/files/10540260/Move.pdf) | [Rotate.pdf](https://github.com/Dopamine-Scientific/Conferender/files/10540263/Rotate.pdf) | [Scale.pdf](https://github.com/Dopamine-Scientific/Conferender/files/10540266/Scale.pdf) |
-|----------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------|
+| ![Move](https://user-images.githubusercontent.com/119645807/215605225-05f8727e-9ea6-44c2-af52-e15c516a0d7d.png) | ![Rotate](https://user-images.githubusercontent.com/119645807/215605302-26dc265c-cf46-4282-beb5-125e378f9a1c.png) | ![Scale](https://user-images.githubusercontent.com/119645807/215605351-f7bf2fef-7991-42eb-80aa-aa0a34c5f8f2.png) |
+|-----------------------------------------------------------------------------------------------------------------|------------------------
+-------------------------------------------------------------------------------------------|-----------------------
+-------------------------------------------------------------------------------------------|
+
 
 
 
